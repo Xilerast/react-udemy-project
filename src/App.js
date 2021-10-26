@@ -1,4 +1,5 @@
 import './App.css';
+import Todo from "./components/Todo";
 
 function App() {
   return (
@@ -17,7 +18,10 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <div><p>Hello, World!</p></div>
+      <h1>My todos</h1>
+      <Todo text='Learn React' />
+      <Todo text='Master React' />
+      <Todo text='Explore the full React course' />
     </div>
   );
 }
