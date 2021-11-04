@@ -1,3 +1,7 @@
+# About this project
+
+This project was done as practice. Todo lists project. Based on the equivalent project of [this course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/). 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
